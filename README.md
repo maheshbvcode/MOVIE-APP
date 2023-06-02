@@ -1,6 +1,13 @@
 # MOVIE-APP
 
 
+## Demo Website
+:point_right: [https://movie-app-umber-ten.vercel.app/](https://movie-app-umber-ten.vercel.app/)
+
+## Video Demo
+:point_right:  [https://drive.google.com/file/d/1l8bHMAF27OexG8nGs6mATBg_flp4fEeI/view?usp=sharing](https://drive.google.com/file/d/1l8bHMAF27OexG8nGs6mATBg_flp4fEeI/view?usp=sharing)
+
+
 # Resource
 
 [Create React App](https://create-react-app.dev/)<br>
